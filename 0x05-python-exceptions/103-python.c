@@ -45,7 +45,7 @@ void print_python_bytes(PyObject *p)
 	printf("  first %zd bytes:", size < 10 ? size + 1 : 10);
 	while (a < size + 1 && a < 10)
 	{
-		printf(" %02hhx", string[i]);
+		printf(" %02hhx", string[a]);
 		a++;
 	}
 	printf("\n");
