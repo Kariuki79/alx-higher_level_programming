@@ -1,9 +1,10 @@
 #include <Python.h>
 #include <stdio.h>
 /**
- * print_python_float - A function that gives data of the PyFloatObject
- * @p: PyObject list object
- */
+* print_python_float - A function that gives
+* data of the PyFloatObject
+* @p: PyObject list object
+*/
 void print_python_float(PyObject *p)
 {
 	double v = 0;
