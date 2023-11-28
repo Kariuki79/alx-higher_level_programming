@@ -1,2 +1,1 @@
-#!/usr/binipython3
 True
