@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-""" A Class that inherits from the list """
+"""
+Contains the lookup function that returns the list of variables
+"""
 
 
-class MyList(list):
-    """ A class that inherits from the list """
-
-    def print_sorted(self):
-        print(sorted(self))
+def lookup(obj):
+    """returns a list of available attributes"""
+    return dir(obj)
