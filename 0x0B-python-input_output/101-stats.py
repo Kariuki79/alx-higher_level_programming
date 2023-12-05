@@ -3,27 +3,39 @@
 """
 
 
-def print_dict_sorted_nonzero(status_codes):
-    """Subroutine to print status codes with nonzero values"""i
-    sorted_keys = sorted(status_codes.keys())
-    print('\n'.join(["{:d}: {:d}".format(k, status_codes[k])
-                     for k in sorted_keys if status_codes[k] != 0]))
+import sys
 
+p_file_size = 0
+status_tally = {"200": 0, "301": 0, "400": 0, "401": 0,
+                "403": 0, "404": 0, "405": 0, "500": 0}
+k = 0
+try:
+    for line in sys.stdin:
+        tokens = line.split()
+        if len(tokens) >= 2:
+            a = k
+            if tokens[-2] in status_tally:
+                status_tally[tokens[-2]] += 1
+                k += 1
+            try:
+                p_file_size += int(tokens[-1])
+                if a == k:
+                    k += 1
+            except Exception:
+                if a == k:
+                    continue
+        if k % 10 == 0:
+            print("File size: {:d}".format(p_file_size))
+            for key, value in sorted(status_tally.items()):
+                if value:
+                    print("{:s}: {:d}".format(key, value))
+    print("File size: {:d}".format(p_file_size))
+    for key, value in sorted(status_tally.items()):
+        if value:
+            print("{:s}: {:d}".format(key, value))
 
-if __name__ == "__main__":
-    import sys
-
-    try:
-        total = 0
-        status_codes = \
-            {code: 0 for code in [200, 301, 400, 401, 403, 404, 405, 500]}
-        for n, line in enumerate(sys.stdin, 1):
-            words = line.split()
-            total += int(words[-1])
-            status_codes[int(words[-2])] += 1
-            if n % 10 == 0:
-                print("File size: {:d}".format(total))
-                print_dict_sorted_nonzero(status_codes)
-    finally:
-        print("File size: {:d}".format(total))
-        print_dict_sorted_nonzero(status_codes)
+except KeyboardInterrupt:
+    print("File size: {:d}".format(p_file_size))
+    for key, value in sorted(status_tally.items()):
+        if value:
+            print("{:s}: {:d}".format(key, value))
