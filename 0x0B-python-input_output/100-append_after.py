@@ -3,7 +3,7 @@
 
 
 def append_after(file_name="", p_search_tring="", p_new_string=""):
-    """A function that inserts a line of text to a file, after each line containing a specific string"""
+    """A function that inserts a line of text to a file"""
     with open(file_name, "r") as f:
         text = f.readlines()
 
