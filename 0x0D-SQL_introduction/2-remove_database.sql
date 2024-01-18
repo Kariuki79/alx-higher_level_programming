@@ -1,2 +1,2 @@
--- A script that deletes the database hbtn_0c_0 in my MySQL server
-DROP DATABASE NOT EXISTS `hbtn_0c_0`;
+-- Deletes the database hbtn_0c_0 from my MySQL server.
+DROP DATABASE IF EXISTS `hbtn_0c_0`;
