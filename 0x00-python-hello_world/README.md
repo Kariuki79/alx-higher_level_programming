@@ -14,4 +14,5 @@ A source code to print the integer stored in the variable 'number' followed by '
 4. Print float
 To print a float stored in the variable 'number' with a precision of two digits.
 
-
+5. Print string
+Print 3 times a string stored in the variable 'str', followed by its first 9 characters
