@@ -10,3 +10,8 @@ A Python script that prints exactly "Programming is like building a multilingual
 
 3. Print integer
 A source code to print the integer stored in the variable 'number' followed by 'Battery street', followed by a new line.
+
+4. Print float
+To print a float stored in the variable 'number' with a precision of two digits.
+
+
