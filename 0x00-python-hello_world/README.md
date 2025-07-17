@@ -25,3 +25,6 @@ Completing a source code
 
 8. Create a new sentence
 Complete this source code  to print object-oriented programming with Python, followed by a newline.
+
+8. Create a new sentence
+Complete this source code to print object-oriented programming with Python
