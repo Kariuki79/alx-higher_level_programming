@@ -19,3 +19,6 @@ Print 3 times a string stored in the variable 'str', followed by its first 9 cha
 
 6. Play with strings
 A source code to print 'Welcome to ALX'
+
+7. Copy - Cut - Paste
+Completing a source code
