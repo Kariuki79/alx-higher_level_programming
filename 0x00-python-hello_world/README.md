@@ -22,3 +22,6 @@ A source code to print 'Welcome to ALX'
 
 7. Copy - Cut - Paste
 Completing a source code
+
+8. Create a new sentence
+Complete this source code  to print object-oriented programming with Python, followed by a newline.
