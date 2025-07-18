@@ -28,3 +28,6 @@ Complete this source code  to print object-oriented programming with Python, fol
 
 8. Create a new sentence
 Complete this source code to print object-oriented programming with Python
+
+9. Easter Egg
+A python script that prints "The Zen of Python", by TimPeters, followed by a newline
