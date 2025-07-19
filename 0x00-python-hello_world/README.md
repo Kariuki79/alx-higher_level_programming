@@ -31,3 +31,9 @@ Complete this source code to print object-oriented programming with Python
 
 9. Easter Egg
 A python script that prints "The Zen of Python", by TimPeters, followed by a newline
+
+10. Linked list cycle
+Write a function in C that checks if a singly linked list has a cycle in it
+
+11. Hello, write
+A Python script that prints exactly 'and the piece of art is useful - Dora korpar, 2015-10-19', followed by a new line.
