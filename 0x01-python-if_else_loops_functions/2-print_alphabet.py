@@ -1,8 +1,9 @@
 #!/usr/bin/python3
-N = 26
-res = ""
 
-for i in range(N):
-    res += chr(97 + i)
-
-print(res)
+# This program prints the lowercase ASCII alphabet without a newline.
+# It adheres to the constraints:
+# - Uses only one print function with string format.
+# - Uses only one loop.
+# - Does not store characters in a variable explicitly.
+# - Does not import any module.
+print("{}".format("".join(chr(97 + i) for i in range(26))), end="")
