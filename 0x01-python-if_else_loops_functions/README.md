@@ -18,3 +18,6 @@ A program that prints numbers from 0 to 99
 
 6. Inventing is a combination of brains and materials. The more brains you use, the less material you need
 A program that prints all possible different combinations of two digits
+
+7. islower
+A function that checks for lowercase letters
