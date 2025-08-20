@@ -12,3 +12,6 @@ Write a program that prints the ASCII alphabet, in lowercase, not followed by a 
 
 4. Hexadecimal printing
 A program that prints all numbers from 0 to 98 in hexadecimal and in hexadecimal
+
+5. 00...99
+A program that prints numbers from 0 to 99
