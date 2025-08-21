@@ -36,3 +36,6 @@ A function that computes a to the power of b and return the value
 
 12. Fizz Buzz
 A function that prints the numbers from 1 to 100 separated by a space
+
+13. Insert in sorted linked list
+A function in C that inserts a number into a sorted singly linked list.
