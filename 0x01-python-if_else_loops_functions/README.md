@@ -33,3 +33,6 @@ A function that adds two integers and returns the result
 
 11. a ^ b
 A function that computes a to the power of b and return the value
+
+12. Fizz Buzz
+A function that prints the numbers from 1 to 100 separated by a space
