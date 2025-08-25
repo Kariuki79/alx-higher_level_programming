@@ -39,3 +39,7 @@ A function that prints the numbers from 1 to 100 separated by a space
 
 13. Insert in sorted linked list
 A function in C that inserts a number into a sorted singly linked list.
+
+
+14. Smile in the mirror
+A program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase (z in lowercase and Y in uppercase), not followed by a newline
