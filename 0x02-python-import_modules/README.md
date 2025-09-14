@@ -9,3 +9,7 @@ A program that imports functions from the file calculator_1.py, does some Maths,
 2. How to make a script dynamic!
 
 A program that prints the number of and the list of its arguments
+
+3. Infinite addition
+
+A program that prints the result of the addition of all arguments
