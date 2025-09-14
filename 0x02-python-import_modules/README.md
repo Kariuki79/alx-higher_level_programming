@@ -13,3 +13,7 @@ A program that prints the number of and the list of its arguments
 3. Infinite addition
 
 A program that prints the result of the addition of all arguments
+
+4. Who are you?
+
+A program that prints all the names defined by a compiled module
