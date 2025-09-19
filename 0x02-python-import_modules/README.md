@@ -17,3 +17,7 @@ A program that prints the result of the addition of all arguments
 4. Who are you?
 
 A program that prints all the names defined by a compiled module
+
+5. Everything can be imported
+
+A program that imports a variable 'a' from the file 'variable_load_5.py' and prints its value
