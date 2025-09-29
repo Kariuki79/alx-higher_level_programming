@@ -25,3 +25,7 @@ A program that imports a variable 'a' from the file 'variable_load_5.py' and pri
 6. Build my own calculator!
 
 A program that imports all functions from a file  and handles basic operations
+
+7. Easy print
+
+A program that prints '#pythoniscool', followed by a new line, in the standard output
