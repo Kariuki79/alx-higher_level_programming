@@ -33,3 +33,9 @@ A program that prints '#pythoniscool', followed by a new line, in the standard o
 8. ByteCode -> Python #3
 
 A python function 'def magic_calculation(a, b):
+
+9. Fast alphabet
+
+Write a program that prints the alphabet in uppercase, followed by a new line.
+
+Your program should be maximum 3 lines long
