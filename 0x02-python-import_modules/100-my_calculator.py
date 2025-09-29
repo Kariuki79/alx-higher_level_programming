@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-
-# import an execution block
 if __name__ == "__main__":
     import sys
     from calculator_1 import add, sub, mul, div
@@ -10,26 +8,24 @@ if __name__ == "__main__":
         print("Usage: ./100-my_calculator.py <a> <operator> <b>")
         sys.exit(1)
 
-
-    # Argument Assignment and Conversion
+    # Argument assignment and conversion
     a = int(sys.argv[1])
     operator = sys.argv[2]
     b = int(sys.argv[3])
 
-    # Operator Mapping
-    # Map operator to the corresponding functions
+    # Map operator to the corresponding function
     operations = {
-            '+' : add,
-            '-' : sub,
-            '*' : mul,
-            '/' : div
+        '+': add,
+        '-': sub,
+        '*': mul,
+        '/': div
     }
 
-    # Operator Validation
+    # Validate operator
     if operator not in operations:
         print("Unknown operator. Available operators: +, -, * and /")
         sys.exit(1)
 
-    # Calculation and Output
+    # Perform calculation and output result
     result = operations[operator](a, b)
-    print(f"{a} {operator} {b} = {result}")
+    print("{} {} {} = {}".format(a, operator, b, result))
