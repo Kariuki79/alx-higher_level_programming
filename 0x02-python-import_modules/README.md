@@ -29,3 +29,7 @@ A program that imports all functions from a file  and handles basic operations
 7. Easy print
 
 A program that prints '#pythoniscool', followed by a new line, in the standard output
+
+8. ByteCode -> Python #3
+
+A python function 'def magic_calculation(a, b):
