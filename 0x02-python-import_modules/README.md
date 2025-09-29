@@ -21,3 +21,7 @@ A program that prints all the names defined by a compiled module
 5. Everything can be imported
 
 A program that imports a variable 'a' from the file 'variable_load_5.py' and prints its value
+
+6. Build my own calculator!
+
+A program that imports all functions from a file  and handles basic operations
