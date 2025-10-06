@@ -29,3 +29,7 @@ A function that prints a matrix of integers
 7. Tuples addition
 
 A function that add 2 tuples.
+
+8. More returns!
+
+A function that returns a tuple with the length of a string and its first character.
