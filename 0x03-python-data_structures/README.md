@@ -33,3 +33,7 @@ A function that add 2 tuples.
 8. More returns!
 
 A function that returns a tuple with the length of a string and its first character.
+
+9. Find the max
+
+A function that finds the biggest integer in a list
