@@ -45,3 +45,7 @@ A function that finds all multiples of 2 in a list.
 11. Delete at
 
 A function that deletes the item at a specific position in a list.
+
+12. Switch
+
+Completing the source code in order to switch value of 'a' and 'b'
