@@ -49,3 +49,12 @@ A function that deletes the item at a specific position in a list.
 12. Switch
 
 Completing the source code in order to switch value of 'a' and 'b'
+
+13. Linked list palindrome
+
+A function in C that checks if a singly linked list is a palindrome
+
+
+14. CPython #0: Python lists
+
+A C function that prints some basic info about Python lists.
