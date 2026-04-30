@@ -8,4 +8,8 @@
 
 4. Completion of a source code in order to print the float stored in the variable 'number' with a precision of 2 digits.
 
-5. A source code inorder to print  3 times a string stored in the varialbe 'str', followed by its first 9 characters. 
+5. A source code inorder to print  3 times a string stored in the varialbe 'str', followed by its first 9 characters.
+
+6. A source code to print 'Welcome to ALX'
+
+7. 
