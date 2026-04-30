@@ -20,3 +20,4 @@ This project introduces the fundamentals of Python 3 programming. It covers basi
 | `5-print_string.py` | A Python script that prints a string 3 times, followed by its first 9 characters. |
 | `6-concat.py` | A Python script that concatenates two strings and prints a welcome message. |
 | `7-edges.py` | A Python script that demonstrates string slicing (first 3, last 2, and middle characters). |
+| `8-concat_edges.py` | A Python script that extracts and concatenates specific words from a string using complex slicing. |
