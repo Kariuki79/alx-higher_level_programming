@@ -1,15 +1,22 @@
-0. A shell script that runs a Python Script. The Python file name is saved in the environment variable $PYFILE
+# 0x00. Python - Hello, World
 
-1. A shell script that run Python code. The python code will be saved in the environment variable $PYCODE
+## Description
+This project introduces the fundamentals of Python 3 programming. It covers basic syntax, variable assignment, string manipulation, string formatting (f-strings), and writing simple shell scripts to execute Python code.
 
-2. a Python script that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
+## Requirements
+* **OS:** Ubuntu 20.04 LTS
+* **Language:** Python 3.8.5
+* **Style Guidelines:** `pycodestyle` (version 2.8.*)
+* **Editors allowed:** vi, vim, emacs
 
-3. Completing a source code to print a string and an integer.
+## Files and Tasks
 
-4. Completion of a source code in order to print the float stored in the variable 'number' with a precision of 2 digits.
-
-5. A source code inorder to print  3 times a string stored in the varialbe 'str', followed by its first 9 characters.
-
-6. A source code to print 'Welcome to ALX'
-
-7. 
+| File | Description |
+| :--- | :--- |
+| `0-run` | A bash script that runs a Python script saved in the `$PYFILE` environment variable. |
+| `1-run_inline` | A bash script that runs Python code saved in the `$PYCODE` environment variable. |
+| `3-print_number.py` | A Python script that prints an integer followed by "Battery street" using f-strings. |
+| `4-print_float.py` | A Python script that prints a float with a precision of 2 decimal places. |
+| `5-print_string.py` | A Python script that prints a string 3 times, followed by its first 9 characters. |
+| `6-concat.py` | A Python script that concatenates two strings and prints a welcome message. |
+| `7-edges.py` | A Python script that demonstrates string slicing (first 3, last 2, and middle characters). |
