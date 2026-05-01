@@ -24,3 +24,4 @@ This project introduces the fundamentals of Python 3 programming. It covers basi
 | `10-check_cycle.c` | A C function that checks if a singly linked list has a cycle using Floyd's Tortoise and Hare algorithm. |
 | `100-write.py` | A python script that prints a string to stderr and exists with a status code of 1. |
 | `101-compile` | A Bash script that compiles a Python script specified by the `$PYFILE` environment variable into a `.pyc` file. |
+| `102-magic_calculation.py` | A Python function that exactly replicates a given sequence of Python bytecode. |
