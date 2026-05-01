@@ -22,3 +22,4 @@ This project introduces the fundamentals of Python 3 programming. It covers basi
 | `7-edges.py` | A Python script that demonstrates string slicing (first 3, last 2, and middle characters). |
 | `8-concat_edges.py` | A Python script that extracts and concatenates specific words from a string using complex slicing. || `9-easter_egg.py` | A python script that prints "The Zen of Python", by Tim Peters. |
 | `10-check_cycle.c` | A C function that checks if a singly linked list has a cycle using Floyd's Tortoise and Hare algorithm. |
+| `100-write.py` | A python script that prints a string to stderr and exists with a status code of 1. |
