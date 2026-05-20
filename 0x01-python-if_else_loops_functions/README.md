@@ -1,0 +1,7 @@
+# 0x01. Python - if/else, loops, functions
+
+This project introduces conditional statements (`if`, `elif`, `else`), loops (`while`, `for`), control flow statements (`break`, `continue`, `pass`), and function definitions in Python.
+
+## Files
+* **0-positive_or_negative.py**: A Python script that assigns a random signed number to a variable and prints whether it is positive, zero, or negative.
+
