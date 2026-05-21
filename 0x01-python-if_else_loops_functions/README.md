@@ -5,4 +5,4 @@ This project introduces conditional statements (`if`, `elif`, `else`), loops (`w
 ## Files
 * **0-positive_or_negative.py**: A Python script that assigns a random signed number to a variable and prints whether it is positive, zero, or negative.
 * **1-last_digit.py**: A script that prints the last digit of a randomly generated number and classifies it.
-
+* **2-print_alphabet.py**: A script that prints the ASCII alphabet in lowercase using a single loop.
