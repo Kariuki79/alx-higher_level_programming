@@ -10,3 +10,4 @@ This project introduces conditional statements (`if`, `elif`, `else`), loops (`w
 * **4-print_hexa.py**: A script that prints numbers from 0 to 98 in both decimal and hexadecimal formats.
 * **5-print_comb2.py**: A script that prints numbers from 0 to 99, zero-padded and separated by commas.
 * **6-print_comb3.py**: A script that prints all possible different combinations of two digits in ascending order.
+* **7-islower.py**: A function that checks for lowercase characters using ASCII values.
