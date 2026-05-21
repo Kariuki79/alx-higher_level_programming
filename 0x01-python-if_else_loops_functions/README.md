@@ -8,3 +8,4 @@ This project introduces conditional statements (`if`, `elif`, `else`), loops (`w
 * **2-print_alphabet.py**: A script that prints the ASCII alphabet in lowercase using a single loop.
 * **3-print_alphabt.py**: A script that prints the ASCII alphabet, excluding 'e' and 'q', using a single loop.
 * **4-print_hexa.py**: A script that prints numbers from 0 to 98 in both decimal and hexadecimal formats.
+* **5-print_comb2.py**: A script that prints numbers from 0 to 99, zero-padded and separated by commas.
