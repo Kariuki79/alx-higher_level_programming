@@ -13,3 +13,4 @@ This project introduces conditional statements (`if`, `elif`, `else`), loops (`w
 * **7-islower.py**: A function that checks for lowercase characters using ASCII values.
 * **8-uppercase.py**: A function that prints a string in uppercase using ASCII character mathematics.
 * **9-print_last_digit.py**: A function that prints and returns the last digit of a number.
+* **11-pow.py**: A function that computes a to the power of b and returns the value.
