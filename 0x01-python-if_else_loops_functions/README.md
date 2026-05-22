@@ -14,3 +14,4 @@ This project introduces conditional statements (`if`, `elif`, `else`), loops (`w
 * **8-uppercase.py**: A function that prints a string in uppercase using ASCII character mathematics.
 * **9-print_last_digit.py**: A function that prints and returns the last digit of a number.
 * **11-pow.py**: A function that computes a to the power of b and returns the value.
+* **12-fizzbuzz.py**: A function that prints numbers from 1 to 100, substituting multiples of 3 with Fizz, multiples of 5 with Buzz, and multiples of both with FizzBuzz.
