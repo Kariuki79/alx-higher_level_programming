@@ -18,3 +18,4 @@ This project introduces conditional statements (`if`, `elif`, `else`), loops (`w
 * **13-insert_number.c**: A C function that inserts a number into a sorted singly linked list.
 * **100-print_tebahpla.py**: A script that prints the ASCII alphabet in reverse order, alternating between lowercase and uppercase.
 * **101-remove_char_at.py**: A function that creates a copy of a string with the character at a specific C-style index removed.
+* **102-magic_calculation.py**: A function that perfectly replicates the provided Python bytecode.
