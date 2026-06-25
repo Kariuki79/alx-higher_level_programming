@@ -25,3 +25,4 @@ By the end of this project, I learned:
 | `3-infinite_add.py` | Collects all numerical command-line arguments and calculates their cumulative sum. |
 | `4-hidden_discovery.py` | Imports a compiled `.pyc` module, extracts all internal attributes using `dir()`, filters out dunder methods, and prints them in. |
 | `5-variable_load.py` | Imports a specific global variable (`a`) from an external module and prints its stored value. |
+| `100-my_calculator.py` | A fully functioning command-line calculator script that processes inputs, routes operations to specific modular math modules, and handles exit codes cleanly. |
