@@ -23,4 +23,4 @@ By the end of this project, I learned:
 | `1-calculation.py` | Imports multiple mathematical functions from a single file to execute basic arithmetic equations. |
 | `2-args.py` | Prints the exact count and list of all parameters passed into it via the command line. |
 | `3-infinite_add.py` | Collects all numerical command-line arguments and calculates their cumulative sum. |
-
+| `4-hidden_discovery.py` | Imports a compiled `.pyc` module, extracts all internal attributes using `dir()`, filters out dunder methods, and prints them in. |
