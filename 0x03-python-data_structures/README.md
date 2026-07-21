@@ -5,3 +5,4 @@
 | `5-no_c.py` | A function that removes all characters 'c' and 'C' from a string without using `str.replace()`. |
 | `6-print_matrix_integer.py` | A function that prints a matrix of integers using `str.format()`. |
 | `7-add_tuple.py` | A function that adds the first two elements of two tuples, handling missing elements with 0. |
+| `9-max_integer.py` | Finds the biggest integer of a list without using the builtin `max()`. |
