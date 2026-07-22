@@ -9,3 +9,4 @@
 | `8-multiple_returns.py` | Returns a tuple with the length of a string and its first character (or `None` if empty). |
 | `10-divisible_by_2.py` | Returns a list of booleans indicating whether integers in a list are multiples of 2. |
 | `11-delete_at.py` | Deletes an item at a specific position in a list without using `pop()`. |
+| `12-switch.py` | Switches the values of variables `a` and `b` in a 5-line script. |
