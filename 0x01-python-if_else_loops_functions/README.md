@@ -17,4 +17,6 @@ This project focuses on fundamental Python syntax and control flow structures, i
 | `1-last_digit.py` | Computes and displays the last digit of a random signed integer |
 | `2-print_alphabet.py` | Prints the ASCII lowercase alphabet in ascending order without a trailing newline |
 | `3-print_alphabt.py` | Prints the ASCII lowercase alphabet excluding the letters 'e' and 'q' |
+| `5-print_comb2.py` | Prints two-digit numbers from 00 to 99 separated by commas |
+| `6-print_comb3.py` | Prints all smallest combinations of two distinct digits |
 | `README.md` | Project documentation and file index |
