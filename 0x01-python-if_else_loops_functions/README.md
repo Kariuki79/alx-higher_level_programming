@@ -21,4 +21,5 @@ This project focuses on fundamental Python syntax and control flow structures, i
 | `6-print_comb3.py` | Prints all smallest combinations of two distinct digits |
 | `7-islower.py` | Defines a function that checks for a lowercase character using ASCII code points |
 | `8-uppercase.py` | Defines a function that prints a string in uppercase followed by a new line |
+| `9-print_last_digit.py` | Defines a function that prints and returns the last digit of a signed integer |
 | `README.md` | Project documentation and file index |
