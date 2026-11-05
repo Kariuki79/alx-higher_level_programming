@@ -20,4 +20,5 @@ This project focuses on fundamental Python syntax and control flow structures, i
 | `5-print_comb2.py` | Prints two-digit numbers from 00 to 99 separated by commas |
 | `6-print_comb3.py` | Prints all smallest combinations of two distinct digits |
 | `7-islower.py` | Defines a function that checks for a lowercase character using ASCII code points |
+| `8-uppercase.py` | Defines a function that prints a string in uppercase followed by a new line |
 | `README.md` | Project documentation and file index |
