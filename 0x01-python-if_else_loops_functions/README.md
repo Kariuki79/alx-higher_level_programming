@@ -24,4 +24,5 @@ This project focuses on fundamental Python syntax and control flow structures, i
 | `9-print_last_digit.py` | Defines a function that prints and returns the last digit of a signed integer |
 | `10-add.py` | Defines a function that adds two integers and returns the result |
 | `11-pow.py` | Defines a function that computes a to the power of b and returns the result |
+| `12-fizzbuzz.py` | Defines a function that prints the numbers from 1 to 100 according to FizzBuzz rules |
 | `README.md` | Project documentation and file index |
