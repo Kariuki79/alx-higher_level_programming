@@ -22,4 +22,5 @@ This project focuses on fundamental Python syntax and control flow structures, i
 | `7-islower.py` | Defines a function that checks for a lowercase character using ASCII code points |
 | `8-uppercase.py` | Defines a function that prints a string in uppercase followed by a new line |
 | `9-print_last_digit.py` | Defines a function that prints and returns the last digit of a signed integer |
+| `10-add.py` | Defines a function that adds two integers and returns the result |
 | `README.md` | Project documentation and file index |
