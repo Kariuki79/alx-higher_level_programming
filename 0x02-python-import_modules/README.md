@@ -14,4 +14,5 @@ This project covers importing functions from external Python modules, controllin
 | File | Description |
 |---|---|
 | `0-add.py` | Imports `add` from `add_0` and prints the result of `1 + 2 = 3` |
+| `1-calculation.py` | Imports `add`, `sub`, `mul`, and `div` from `calculator_1` and prints results |
 | `README.md` | Project documentation and file index |
