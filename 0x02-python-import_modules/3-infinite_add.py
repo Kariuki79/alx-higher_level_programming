@@ -2,5 +2,5 @@
 if __name__ == "__main__":
     import sys
 
-    numbers =sum(int(arg) for arg in sys.argv[1:])
+    numbers = sum(int(arg) for arg in sys.argv[1:])
     print("{:d}".format(numbers))
