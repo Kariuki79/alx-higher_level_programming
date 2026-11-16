@@ -1,12 +1,6 @@
 #!/usr/bin/python3
-import sys
+if __name__ == "__main__":
+    import sys
 
-if len(sys.argv) < 3:
-    sys.exit(1)
-
-try:
-    numbers = [int(arg) for arg in sys.argv[1:]]
-except ValueError:
-    sys.exit(1)
-
-print(sum(numbers))
+    numbers =sum(int(arg) for arg in sys.argv[1:])
+    print("{:d}".format(numbers))
