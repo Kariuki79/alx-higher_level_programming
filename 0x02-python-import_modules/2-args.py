@@ -2,8 +2,8 @@
 if __name__ == "__main__":
     import sys
 
-    args = sys.argv[1:]
-    count = len(args)
+    argv = sys.argv[1:]
+    count = len(argv)
 
     if count == 0:
         print("0 arguments.")
@@ -12,5 +12,5 @@ if __name__ == "__main__":
     else:
         print("{} arguments".format(count))
 
-    for index, arg in enumerate(args, start=1):
+    for index, arg in enumerate(argv, start=1):
         print("{}: {}".format(index, arg))
