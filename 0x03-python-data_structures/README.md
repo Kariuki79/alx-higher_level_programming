@@ -18,4 +18,5 @@ This project covers Python list operations, indexing, slicing, mutability, list 
 | `2-replace_in_list.py` | Replaces an element of a list at a specific position in place |
 | `3-print_reversed_list_integer.py` | Prints all integers of a list in reverse order |
 | `4-new_in_list.py` | Replaces an element in a list copy without modifying the original list |
+| `5-no_c.py` | Removes all occurrences of `c` and `C` from a string |
 | `README.md` | Project documentation and file index |
