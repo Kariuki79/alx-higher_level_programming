@@ -14,4 +14,5 @@ This project covers Python list operations, indexing, slicing, mutability, list 
 | File | Description |
 |---|---|
 | `0-print_list_integer.py` | Prints all integers of a list using `str.format()` |
+| `1-element_at.py` | Retrieves an element from a list at a given index safely |
 | `README.md` | Project documentation and file index |
