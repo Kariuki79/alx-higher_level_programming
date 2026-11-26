@@ -21,4 +21,5 @@ This project covers Python list operations, indexing, slicing, mutability, list 
 | `5-no_c.py` | Removes all occurrences of `c` and `C` from a string |
 | `6-print_matrix_integer.py` | Prints a 2D matrix of integers using `str.format()` |
 | `7-add_tuple.py` | Adds the first two elements of two tuples with zero-padding |
+| `8-multiple_returns.py` | Returns a tuple containing the length of a string and its first character |
 | `README.md` | Project documentation and file index |
